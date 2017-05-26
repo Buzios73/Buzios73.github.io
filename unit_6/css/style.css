@@ -73,10 +73,11 @@ section{
 h1{
 	
 	font-weight: normal;
-	font-size:60px;
+	font-size:2em;
 	text-align:center;
 	color:black;
 	margin:200px 0 0;
+	padding-top: 400px;
 }
 
 h2,h3,h4 {
