@@ -1,8 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Racing+Sans+One);
-@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
-@import url(https://fonts.googleapis.com/css?family=Allerta);
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,400');
 
 *{
 	margin:0;
@@ -14,6 +10,7 @@ body{
 	background-color: #201828;
 	font-size: 16px;
 	position: relative;
+	font-family: 'Dosis', sans-serif;
 }
 
 header{
@@ -186,7 +183,7 @@ h2 + hr{
 }
 
 #lander{
-	background:<img src="assets/neilpatrickharris.jpg" alt="Neil Patrick Harris" title="a Neil who acts">no-repeat center center scroll;
+	background:url(../assets/carina-nebula.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
