@@ -186,7 +186,7 @@ h2 + hr{
 }
 
 #lander{
-	background:url(../assets/Corredor5-03.jpg) no-repeat center center scroll;
+	background:<img src="assets/neilpatrickharris.jpg" alt="Neil Patrick Harris" title="a Neil who acts">no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
