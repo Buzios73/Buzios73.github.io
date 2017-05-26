@@ -79,10 +79,8 @@ h1{
 	margin:200px 0 0;
 }
 
-h2,
-h3,
-h4{
-	font-family: 'Allerta', sans-serif;
+h2,h3,h4 {
+	
 	text-align: center;
 }
 
