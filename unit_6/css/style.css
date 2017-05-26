@@ -7,7 +7,7 @@
 }
 
 body{
-	background-color: white;
+	background-color: #201828;
 	font-size: 16px;
 	position: relative;
 	font-family: 'Dosis', sans-serif;
@@ -27,7 +27,7 @@ nav{
 
 nav a:link{
 	
-	color:solid black;
+	color:solid bla;
 	margin:0 32px;
 	padding-bottom:px;
 	font-size: .8em;
@@ -73,12 +73,10 @@ section{
 h1{
 	
 	font-weight: normal;
-	font-size:2em;
+	font-size:60px;
 	text-align:center;
-	color:black;
+	color:#fff;
 	margin:200px 0 0;
-	padding-top: 300px;
-	padding-left: 4em;
 }
 
 h2,h3,h4 {
