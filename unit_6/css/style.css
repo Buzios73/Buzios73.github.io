@@ -60,7 +60,7 @@ section{
 	padding:200px 0;
 }
 
-footer{
+/*footer{
 	background:url(../assets/stars.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -68,7 +68,7 @@ footer{
 	background-size: cover;
 	color:#F1E9E4;
 	padding:200px 0;
-}
+}*/
 
 h1{
 	font-family: 'Racing Sans One', serif;
