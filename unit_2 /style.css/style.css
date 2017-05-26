@@ -1,1 +1,36 @@
-style.css
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Dosis:500,600');
+
+body  {
+  background: url("");
+  background-size: 500px;
+  font-size: 16px; 
+  font-family: dosis;
+  font-weight: 100;
+  font-weight: 100;
+  color: black;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin-left: 10px; 
+  Margin-right: 10px;
+  font-side: 2em;
+   
+}
+
+
+h1 { 
+ font-family: 'Fjalla One', sans-serif;
+   
+    padding:0px 0px 0px 0;
+    margin-top:0;
+    margin-bottom:0px;
+    font-size:3em;
+    font-weight:300;
+    text-transform:uppercase;
+
+}
