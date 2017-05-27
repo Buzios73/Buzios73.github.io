@@ -7,6 +7,16 @@
 	box-sizing:border-box;
 }
 
+#lander{
+	background:url(../assets/Corredor5-03.png) 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:750px;
+	padding:20px 0;
+}
+
 body{
 	background-color: white;
 	font-size: 16px;
@@ -16,37 +26,44 @@ body{
 
 header{
 	padding:0 200px;
+	font-size:.8em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-align: center;
+	font-weight: normal;
 }
 
 nav{
 	/*margin:auto;*/
 	text-align: center;
 	float: right;
+	padding-left: .5em;
+	
 }
-
-/*LoVe HAte*/
 
 nav a:link{
 	
-	color:solid black;
+	color: solid black;
 	margin:0 32px;
-	padding-bottom:px;
+	padding-bottom:16px;
 	font-size: .8em;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
 
-nav a:visited{
-	color: #fff;
+a{
+	text-decoration:none;
+	color: #201828;
 }
 
+
 nav a:hover{
-	border-bottom: 1px solid #fff;
+	border-bottom: 1px solid red;
 }
 
 nav a:active{
-	color:#fff;
+	color:black;
 }
 
 
@@ -71,45 +88,6 @@ footer{
 	padding:200px 0;
 }
 
-h1{
-	
-	font-weight: normal;
-	font-size:60px;
-	text-align:center;
-	color:#fff;
-	margin:200px 0 0;
-}
-
-h2,
-h3,
-h4{
-	
-	text-align: center;
-}
-
-h2{
-	font-size:.8em;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-}
-
-h3{
-	font-size:2em;
-	margin:1em;
-}
-
-h4{
-	font-size:3em;
-	text-align:center;
-}
-
-p{
-	
-	font-size:1em;
-	line-height: 1.6em;
-}
-
-
 
 
 
@@ -120,22 +98,16 @@ a{
 }
 
 img{
-	width:100%;
+	width:%;
 /*	height:40px;*/
 }
 
 
-}
 
-h3 + hr{
-	background-color: #3C3C3C;
-	height:3px;
-}
 
-h2 + hr{
-	background-color: #fff;
-	height:1px;
-}
+
+
+
 
 .clearfix:after{
 	visibility: hidden;
@@ -147,7 +119,7 @@ h2 + hr{
 }
 
 .wrapper{
-	/*background-color: purple;*/
+	
 	width: 90%;
     margin: auto;
 }
@@ -165,29 +137,10 @@ h2 + hr{
 	margin:auto;
 }
 
-.neils > h3{
-	margin:.5em;
-}
 
-.planet{
-	width:500px;
-	margin:50px auto;
-	padding:20px 0 40px;
-}
 
-#lander{
-	background:url(../assets/Corredor5-03.png) no-repeat center center scroll;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	height:750px;
-	padding:20px 0;
-}
 
-#planets{
-	background-color:#000;
-	color:#F1E9E4;
-}
+
+
 
 
