@@ -24,20 +24,12 @@ body{
     font-family: 'Dosis', sans-serif;
 }
 
-header{
-	padding:0 200px;
-	font-size:.8em;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	text-align: center;
-	font-weight: normal;
-}
 
 nav{
 	/*margin:auto;*/
-	text-align: center;
-	float: right;
-	padding-left: 1em;
+	text-align: right;
+	float: center;
+	padding-left: .5em;
 
 }
 
@@ -69,7 +61,7 @@ nav a:active{
 
 
 main{
-	background-color: #F1E9E4;
+	background-color: #444344;
 	color:#3C3C3C;
 	padding:50px 0;
 }
