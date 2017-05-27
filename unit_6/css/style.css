@@ -25,10 +25,11 @@ body{
 }
 
 
+
 nav{
 	/*margin:auto;*/
 	text-align: right;
-	float: center;
+	float: right;
 	padding-left: .5em;
 
 }
@@ -42,6 +43,7 @@ nav a:link{
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	
 }
 
 a{
