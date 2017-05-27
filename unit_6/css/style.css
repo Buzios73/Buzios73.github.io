@@ -48,7 +48,7 @@ nav a:hover{
 
 
 main{
-	background-color: #F1E9E4;
+	background-color: #444344;
 	color:#3C3C3C;
 	padding:50px 0;
 }
@@ -115,18 +115,6 @@ img{
 	width:100%;
 }
 
-
-}
-
-h3 + hr{
-	background-color: #3C3C3C;
-	height:3px;
-}
-
-h2 + hr{
-	background-color:#444344;
-	height:1px;
-}
 
 .clearfix:after{
 	visibility: hidden;
