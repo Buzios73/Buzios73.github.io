@@ -8,7 +8,7 @@
 }
 
 #lander{
-	background:url(../assets/Corredor5-04.jpg) 
+	background:url(../assets/Corredor5-03.png) 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -35,9 +35,9 @@ header{
 
 nav{
 	/*margin:auto;*/
-	text-align: right;
+	text-align: center;
 	float: right;
-	padding-left: .5em;
+	padding-left: 1em;
 
 }
 
