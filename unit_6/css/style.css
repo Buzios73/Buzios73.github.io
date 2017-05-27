@@ -8,7 +8,7 @@
 }
 
 #lander{
-	background:url(../assets/Corredor5-03.png) 
+	background:url(../) 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -26,44 +26,29 @@ body{
 
 
 
-nav{
-	/*margin:auto;*/
-	text-align: right;
-	float: right;
-	padding-left: .5em;
 
-}
-
-nav a:link{
+nav a:link {
 	
+	float: right;
 	color: solid black;
-	margin:0 32px;
-	padding-bottom:8px;
+	margin:0 1.5em;
+	padding-bottom:16px;
 	font-size: .8em;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	
 }
 
-a{
-	text-decoration:none;
-	color: #201828;
-}
 
 
 nav a:hover{
 	border-bottom: 1px solid red;
 }
 
-nav a:active{
-	color:black;
-}
-
 
 
 main{
-	background-color: #444344;
+	background-color: #F1E9E4;
 	color:#3C3C3C;
 	padding:50px 0;
 }
@@ -82,8 +67,43 @@ footer{
 	padding:200px 0;
 }
 
+h1{
+	
+	font-weight: normal;
+	font-size:60px;
+	text-align:center;
+	color:#fff;
+	margin:200px 0 0;
+}
 
+h2,
+h3,
+h4{
+	
+	text-align: center;
+}
 
+h2{
+	font-size:.8em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h3{
+	font-size:2em;
+	margin:1em;
+}
+
+h4{
+	font-size:3em;
+	text-align:center;
+}
+
+p{
+	
+	font-size:1em;
+	line-height: 1.6em;
+}
 
 
 a{
@@ -92,16 +112,21 @@ a{
 }
 
 img{
-	width:%;
-/*	height:40px;*/
+	width:100%;
 }
 
 
+}
 
+h3 + hr{
+	background-color: #3C3C3C;
+	height:3px;
+}
 
-
-
-
+h2 + hr{
+	background-color:#444344;
+	height:1px;
+}
 
 .clearfix:after{
 	visibility: hidden;
@@ -113,28 +138,22 @@ img{
 }
 
 .wrapper{
-	
 	width: 90%;
     margin: auto;
 }
 
-.neils{
+.pic{
 	width:22%;
 	margin:1.5%;
 	float:left;
-	/*background-color: orange;*/
+	
 }
 
-.neils img{
+.pic img{
 	max-width: 250px;
 	display: block;
 	margin:auto;
 }
-
-
-
-
-
 
 
 
