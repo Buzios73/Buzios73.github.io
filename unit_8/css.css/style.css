@@ -143,5 +143,9 @@ img{
 	margin:auto;
 }
 
-
-
+@media screen and (max-width:690px){
+	nav a {
+		display: block
+			}
+		}
+		
