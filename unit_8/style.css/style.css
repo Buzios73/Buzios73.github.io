@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,400');
+
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+#lander{
+	background:url(../) 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:750px;
+	padding:20px 0;
+}
+
+body{
+	background-color: white;
+	font-size: 16px;
+	position: relative;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+
+
+nav a:link {
+	
+	float: right;
+	color: solid black;
+	margin:0 1.5em;
+	padding-bottom:16px;
+	font-size: .8em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+
+
+nav a:hover{
+	border-bottom: 1px solid red;
+}
+
+
+
+main{
+	background-color: #444344;
+	color:#3C3C3C;
+	padding:50px 0;
+}
+
+section{
+	padding:200px 0;
+}
+
+footer{
+	background:url(../assets/stars.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color:#F1E9E4;
+	padding:200px 0;
+}
+
+h1{
+	
+	font-weight: normal;
+	font-size:60px;
+	text-align:center;
+	color:#fff;
+	margin:200px 0 0;
+}
+
+h2,
+h3,
+h4{
+	
+	text-align: center;
+}
+
+h2{
+	font-size:.8em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h3{
+	font-size:2em;
+	margin:1em;
+}
+
+h4{
+	font-size:3em;
+	text-align:center;
+}
+
+p{
+	
+	font-size:1em;
+	line-height: 1.6em;
+}
+
+
+a{
+	text-decoration:none;
+	color: #201828;
+}
+
+img{
+	width:100%;
+}
+
+
+.clearfix:after{
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content:"hello";
+	display: block;
+	clear:both;
+}
+
+.wrapper{
+	width: 90%;
+    margin: auto;
+}
+
+.pic{
+	width:22%;
+	margin:1.5%;
+	float:left;
+	
+}
+
+.pic img{
+	max-width: 250px;
+	display: block;
+	margin:auto;
+}
+
+
+
