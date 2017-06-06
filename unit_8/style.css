@@ -14,11 +14,12 @@ body{
 	background-color: #201828;
 	font-size: 16px;
 	position: relative;
+	font-family: 'Dosis', sans-serif;
 }
 
 header{
 	padding:0 200px;
-	font-family: 'Dosis', sans-serif;
+
 }
 
 nav{
@@ -30,7 +31,6 @@ nav{
 /*LoVe HAte*/
 
 nav a:link{
-	font-family: 'Allerta', sans-serif;
 	color:#fff;
 	margin:0 32px;
 	padding-bottom:5px;
@@ -75,7 +75,6 @@ footer{
 }
 
 h1{
-	font-family: 'Racing Sans One', serif;
 	font-weight: normal;
 	font-size:60px;
 	text-align:center;
@@ -86,7 +85,6 @@ h1{
 h2,
 h3,
 h4{
-	font-family: 'Allerta', sans-serif;
 	text-align: center;
 }
 
@@ -107,7 +105,6 @@ h4{
 }
 
 p{
-	font-family: 'Crimson Text', serif;
 	font-size:1em;
 	line-height: 1.6em;
 }
@@ -118,7 +115,6 @@ ul{
 }
 
 li{
-	font-family: 'Crimson Text', serif;
 	text-align: center;
 }
 
