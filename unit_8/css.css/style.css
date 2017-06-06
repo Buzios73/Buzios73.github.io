@@ -52,7 +52,7 @@ nav a:active{
 
 main{
 	background-color: #F1E9E4;
-	color:#3C3C3C;
+	color: red;
 	padding:50px 0;
 }
 
@@ -73,7 +73,7 @@ footer{
 h1{
 	font-family: 'Racing Sans One', serif;
 	font-weight: normal;
-	font-size:60px;
+	font-size:6100px;
 	text-align:center;
 	color:#fff;
 	margin:200px 0 0;
