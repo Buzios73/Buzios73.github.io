@@ -8,13 +8,14 @@
 }
 
 #lander{
-	background:url(../assets/2017-06-05-PHOTO-00000302.jpg) 
+	background:url(../assets/carina-nebula.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	height:750px;
 	padding:20px 0;
+}
 }
 
 body{
