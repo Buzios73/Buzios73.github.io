@@ -56,15 +56,16 @@ section{
 	padding:50px 0;
 }
 
-footer{
-	background:url(http://i.imgur.com/PS7EkS1.jpg) no-repeat center center scroll;
+/*footer{*/
+
+	/*:url(http://i.imgur.com/PS7EkS1.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	color:#F1E9E4;
 	padding:100px 0;
-}
+}*/
 
 h1{
 	font-size:60px;
