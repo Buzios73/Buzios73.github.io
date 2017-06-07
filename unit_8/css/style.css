@@ -218,13 +218,14 @@ label{
 }
 
 #lander{
-	background:url(../assets/otima.jpg) no-repeat center center scroll;
+	background:url(../assets/wallpaper-3.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	height:1173px;
 	padding:58px 174px;
+
 }
 
 #neil-wrap{
