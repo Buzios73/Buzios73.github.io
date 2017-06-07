@@ -87,7 +87,7 @@ li{
 
 a{
 	text-decoration:none;
-	color: #201828;
+	color: black;
 }
 
 img{
@@ -102,13 +102,13 @@ hr{
 }
 
 h3 + hr{
-	background-color: #fff;
-	height:3px;
+	background-color: white;
+	height: 1.2em;
 }
 
 h2 + hr{
-	background-color: #fff;
-	height:1px;
+	background-color: white;
+	height:1.2em;
 }
 
 .clearfix:after{
@@ -130,7 +130,7 @@ h2 + hr{
 	width:22%;
 	margin:1.5%;
 	float:left;
-	background-color: orange;
+	background-color: white;
 }
 
 .neils img{
