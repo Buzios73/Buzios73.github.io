@@ -102,7 +102,7 @@ hr{
 }
 
 h3 + hr{
-	background-color: #3C3C3C;
+	background-color: #fff;
 	height:3px;
 }
 
