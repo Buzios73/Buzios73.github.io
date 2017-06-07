@@ -170,13 +170,13 @@ h2 + hr{
 }
 
 #lander{
-	background:url(http://i.imgur.com/PS7EkS1.jpg) no-repeat center center scroll;
+	/*b*//*ackground:url(http://i.imgur.com/PS7EkS1.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	height:750px;
-	padding:20px 0;
+	padding:20px 0;*/
 }
 
 #planets{
