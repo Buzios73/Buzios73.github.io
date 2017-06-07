@@ -111,9 +111,10 @@ hr{
 	clear:both;
 }
 
+/*Espaço que envolve os neils */
 .wrapper{
 	background-color: white;
-	width: 90%;
+	width: 100%;
     margin: auto;
 }
 
