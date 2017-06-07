@@ -6,8 +6,7 @@
 	box-sizing:border-box;
 }
 
-#lander { 
-
+.lander { 
 background: url(assets/wallpaper-3.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
