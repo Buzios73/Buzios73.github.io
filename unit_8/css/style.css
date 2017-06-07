@@ -11,13 +11,13 @@
 }
 
 body{
-	background-color: white;
+	background-color: solid
 	font-size: 16px;
 	position: relative;
 }
 
 header{
-	padding:0 200px;
+	/*padding:0 200px;*/
 }
 
 nav{
@@ -68,7 +68,7 @@ footer{
 	-o-background-size: cover;
 	background-size: cover;
 	color:#F1E9E4;
-	padding:200px 0 250px;
+	padding:50px 0 50px;
 }
 
 h1{
