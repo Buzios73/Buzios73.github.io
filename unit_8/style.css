@@ -17,18 +17,18 @@ body{
 }
 
 header{
-	padding:0 200px;
+	padding:0 12em;
 
 }
 
 nav a:link{
 	color: white;
 	margin:0 2em;
-	padding-bottom:0.5em;
+	padding-bottom:.5em;
 	font-size: .8em;
 	text-align: right;
 	text-transform: uppercase;
-	letter-spacing: 0.1em;
+	letter-spacing: .1em;
 }
 
 nav a:visited{
@@ -36,7 +36,7 @@ nav a:visited{
 }
 
 nav a:hover{
-	border-bottom: 1px solid #fff;
+	border-bottom: 0.0625em solid #fff;
 }
 
 nav a:active{
@@ -125,7 +125,7 @@ hr{
 }
 
 .neils img{
-	max-width: 250px;
+	max-width: 15.6em;
 	display: block;
 	margin:auto;
 }
@@ -135,9 +135,9 @@ hr{
 }
 
 .planet{
-	width:500px;
-	margin:50px auto;
-	padding:20px 0 40px;
+	width:31.2em;
+	margin:3.1em auto;
+	padding:1.3em 0 2.5em;
 }
 
 #lander{
@@ -145,8 +145,8 @@ hr{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:750px;
-	padding:20px 0;
+	height:47em;
+	padding: 1.3em 0;
 
 }
 
@@ -157,7 +157,7 @@ hr{
 	-o-background-size: cover;
 	background-size: cover;
 	color:#F1E9E4;
-	padding:100px 0;
+	padding:6.3em 0;
 }
 
 
