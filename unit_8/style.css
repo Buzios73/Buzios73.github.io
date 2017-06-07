@@ -21,13 +21,13 @@ header{
 }
 
 nav a:link{
-	color:#fff;
-	margin:0 32px;
-	padding-bottom:5px;
+	color: white;
+	margin:0 2em;
+	padding-bottom:0.5em;
 	font-size: .8em;
 	text-align: right;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 0.1em;
 }
 
 nav a:visited{
@@ -45,8 +45,7 @@ nav a:active{
 
 
 main{
-	background-color: #Ffff;
-	color:#3C3C3C;
+	
 	padding:50px 0;
 }
 
