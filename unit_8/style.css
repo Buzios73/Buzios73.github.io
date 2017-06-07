@@ -101,15 +101,6 @@ hr{
 	margin:1em auto;
 }
 
-h3 + hr{
-	background-color: white;
-	height: 1.2em;
-}
-
-h2 + hr{
-	background-color: white;
-	height:1.2em;
-}
 
 .clearfix:after{
 	visibility: hidden;
