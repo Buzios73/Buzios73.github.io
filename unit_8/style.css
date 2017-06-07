@@ -17,9 +17,9 @@ body{
 	font-family: 'Dosis', sans-serif;
 }
 
-/*header{
+header{
 	padding:0 200px;
-*/
+
 }
 
 nav a:link{
@@ -130,7 +130,7 @@ h2 + hr{
 }
 
 .wrapper{
-	/*background-color: purple;*/
+	background-color: purple;
 	width: 90%;
     margin: auto;
 }
@@ -139,7 +139,7 @@ h2 + hr{
 	width:22%;
 	margin:1.5%;
 	float:left;
-	/*background-color: orange;*/
+	background-color: orange;
 }
 
 .neils img{
