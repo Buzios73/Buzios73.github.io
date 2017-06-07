@@ -31,14 +31,14 @@ nav a:link{
 	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
 	padding:0 0 0 18px;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	-webkit-transition:color ease-in-out .5s;
-	-moz-transition:color ease-in-out .5s;
-	-o-transition:color ease-in-out .5s;
-	transition:color ease-in-out .5s;
+	-webkit-transition:color ease-in-out .3s;
+	-moz-transition:color ease-in-out .3s;
+	-o-transition:color ease-in-out .3s;
+	transition:color ease-in-out .3s;
 }
 
 nav a:visited{
