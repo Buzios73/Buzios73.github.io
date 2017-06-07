@@ -42,11 +42,11 @@ nav a:link{
 }
 
 nav a:visited{
-	color: #B11;
+	color: #f8fcfc;
 }
 
 nav a:hover{
-	color: #C400C4;
+	color: #FFFD06;
 }
 
 nav a:active{
@@ -223,7 +223,7 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:1173px;
+	height:910px;
 	padding:58px 174px;
 
 }
