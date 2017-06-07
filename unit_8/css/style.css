@@ -2,6 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text);
 @import url(https://fonts.googleapis.com/css?family=Allerta);
 @import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 
 *{
@@ -26,10 +28,10 @@ nav{
 }
 
 nav a:link{
-	font-family: 'Dosis', sans-serif;
-	color:#fff;
+	font-family: 'Fjalla One', sans-serif;
+	color:#D10606;
 	padding:0 32px;
-	font-size: .8em;
+	font-size: 1em;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
