@@ -13,6 +13,7 @@ body{
 	font-size: 16px;
 	position: relative;
 	font-family: 'Dosis', sans-serif;
+	text-transform: uppercase;
 }
 
 header{
@@ -43,28 +44,21 @@ nav a:active{
 }
 
 
-
-main{
-	
-	padding:50px 0;
-}
-
 section{
-	padding:50px 0;
+	padding: 3.2em 0;
 }
 
 h1{
-	font-size:60px;
+	font-size:4em;
 	text-align:center;
 	color:#fff;
-	margin:200px 0 0;
+	margin:13em 0 0;
 }
 
 
 h2{
 	font-size:.4em;
-	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 1em;
 }
 
 h3{
