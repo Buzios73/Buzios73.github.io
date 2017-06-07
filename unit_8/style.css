@@ -140,4 +140,25 @@ hr{
 	padding:20px 0 40px;
 }
 
+#lander{
+	background:url(../assets/carina-nebula.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:750px;
+	padding:20px 0;
+
+}
+
+	footer{
+	background:url(../assets/stars.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color:#F1E9E4;
+	padding:100px 0;
+}
+
 
