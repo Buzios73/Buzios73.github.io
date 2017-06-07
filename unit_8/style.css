@@ -142,7 +142,7 @@ hr{
 }
 
 #lander {
-    background: url(../assets/tape1.jpg) no-repeat center center scroll;
+    background: url(assets/tape1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
