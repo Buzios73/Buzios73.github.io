@@ -145,8 +145,8 @@ hr{
 }
 
 label{
-	font-family: 'Allerta', sans-serif;
-	color:#fff;
+	/*font-family: 'Allerta', sans-serif;*/
+	/*color:#fff;*/
 	padding:0 32px;
 	font-size: .8em;
 	text-align: center;
@@ -198,7 +198,7 @@ label{
 }
 
 .planet h3{
-	color:red;
+	/*color:red;*/
 	margin:0 0 1em;
 	position: absolute;
 	top:220px;
@@ -236,7 +236,7 @@ label{
 
 #planets{
 	background-color:#f8fcfc;
-	color:#F1E9E4;
+	/*color:#F1E9E4;*/
 	padding:5em 10% 7em;
 }
 
