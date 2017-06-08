@@ -80,11 +80,11 @@ h4{
 	text-align: center;
 }
 
-/*h2{
+h2{
 	font-size:1.5em;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	margin:0 0 2.5em;*/
+	margin:0 0 2.5em;
 }
 
 h2 + hr{
@@ -163,7 +163,7 @@ label{
 	clear:both;
 }
 
-.photos{
+.neils{
 	width:23%;
 	padding:1%;
 	margin:1%;
@@ -223,7 +223,7 @@ label{
 
 }
 
-#corredor5.wrap{
+#neil-wrap{
 	width:90%;
 	margin:auto;
 }
