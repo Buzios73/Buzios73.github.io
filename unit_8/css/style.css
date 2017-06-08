@@ -224,7 +224,7 @@ label{
 
 }
 
-#neil-wrap{
+#neil-wrap #planet{
 	width:90%;
 	margin:auto;
 }
@@ -240,36 +240,7 @@ label{
 }
 
 
-@media screen and (max-width:1645px){
-	.neils{
-		width:48%;
-		height: 651px;
-	}
-}
 
-@media screen and (max-width:1220px){
-	header{
-		padding:0 10%;
-	}
-
-	.neils{
-		height: 560px;
-	}
-
-
-}
-
-@media screen and (max-width:1000px){
-	.neils{
-		width:100%;
-		float:none;
-		height: auto;
-	}
-}
-
-@media screen and (max-width:750px){
-	nav{
-		display: none;
 	}
 
 	nav a:link{
