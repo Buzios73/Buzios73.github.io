@@ -41,11 +41,11 @@ nav a:link{
 	transition:color ease-in-out .3s;
 }
 
-nav a:visited{
+nav a :visited{
 	color: #f8fcfc;
 }
 
-nav a:hover{
+nav a, h2, h3:hover{
 	color: #FFFD06;
 }
 
@@ -54,8 +54,7 @@ nav a:active{
 }
 
 main {
-	/*background-color: #f8fcff;*/
-	/*color:#3C3C3C;*/
+	
 	padding:50px 0;
 }
 
@@ -64,12 +63,7 @@ section{
 }
 
 footer{
-	/*background:url(../assets/wallpaper-3.jpg) no-repeat center center scroll;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;*/
-	/*background-color:#f8fcff;*/
+	
 	color:##f8fcff;
 	padding:50px 0 50px;
 }
@@ -147,8 +141,7 @@ hr{
 }
 
 label{
-	/*font-family: 'Allerta', sans-serif;*/
-	/*color:#fff;*/
+	
 	padding:0 32px;
 	font-size: .8em;
 	text-align: center;
@@ -157,11 +150,7 @@ label{
 	display: none;
 }
 
-.social { 
 
-
-
-}
 .clearfix:after{
 	height:0;
 	font-size:0;
@@ -171,14 +160,14 @@ label{
 	clear:both;
 }
 
-.neils{
+.studio{
 	width:23%;
 	padding:1%;
 	margin:1%;
 	float:left;
 }
 
-.planet{
+.work{
 	width:33.33%;
 	padding:2em 0 0;
 	float: left;
@@ -187,19 +176,19 @@ label{
 	/*background-color: orange;*/
 }
 
-.planet:nth-of-type(1){
+.work:nth-of-type(1){
 	padding:7.5em 0 0;
 }
 
-.planet:nth-of-type(3){
+.work:nth-of-type(3){
 	padding:6em 0 0;
 }
 
-.planet:hover > h3{
+.work:hover > h3{
 	opacity: 1;
 }
 
-.planet h3{
+.work h3{
 	/*color:red;*/
 	margin:0 0 1em;
 	position: absolute;
@@ -231,14 +220,13 @@ label{
 
 }
 
-#neil-wrap #planet{
+#studio-wrap #work{
 	width:90%;
 	margin:auto;
 }
 
-#planets{
-	/*background-color:#f8fcfc;*/
-	/*color:#F1E9E4;*/
+#work{
+	
 	padding:5em 10% 7em;
 }
 
