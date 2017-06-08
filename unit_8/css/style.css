@@ -15,6 +15,7 @@ body{
 	font-size: 16px;
 	position: relative;
 	font-family: 'Dosis',sans-serif;
+	
 }
 
 header{
@@ -54,7 +55,7 @@ nav a:active{
 
 main {
 	/*background-color: #f8fcff;*/
-	color:#3C3C3C;
+	/*color:#3C3C3C;*/
 	padding:50px 0;
 }
 
@@ -118,7 +119,7 @@ p{
 	
 	font-size:1em;
 	line-height: 1.6em;
-	text-transform:uppercase;
+	
 }
 
 ul{
@@ -237,7 +238,7 @@ label{
 }
 
 #planets{
-	background-color:#f8fcfc;
+	/*background-color:#f8fcfc;*/
 	/*color:#F1E9E4;*/
 	padding:5em 10% 7em;
 }
