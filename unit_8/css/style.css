@@ -272,4 +272,50 @@ label{
 		display: block;
 	}
 
+@media	only screen and (max-width:1540px) {
+    
+     nav a:visited{
+	  color:#FFFD06;
+    }
+
+
+    nav a:hover{
+	color:red;
 }
+
+nav a:active{
+	color: white;
+}
+ @media	only screen and (max-width:1476px) {
+
+
+#lander { 
+
+  height:670px
+  }
+@media	only screen and (max-width:1070px) {
+
+	nav a:visited{
+	color:red ;
+    }
+
+
+    nav a:hover{
+	color:#FFFD06;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
