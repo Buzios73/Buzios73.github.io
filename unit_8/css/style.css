@@ -19,7 +19,7 @@ body{
 }
 
 header{
-	padding:0 200px;
+	padding:0 12.5em;
 }
 
 nav{
@@ -30,11 +30,11 @@ nav{
 nav a:link{
 	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
-	padding:0 0 0 18px;
+	padding:0 0 0 1.2em;
 	font-size: 1.4em;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: .13em;
 	-webkit-transition:color ease-in-out .3s;
 	-moz-transition:color ease-in-out .3s;
 	-o-transition:color ease-in-out .3s;
@@ -56,11 +56,11 @@ nav a:active{
 main {
 	/*background-color: #f8fcff;*/
 	/*color:#3C3C3C;*/
-	padding:50px 0;
+	padding:3.2em 0;
 }
 
 section{
-	padding:50px 0;
+	padding: 3.2em 0;
 }
 
 footer{
@@ -71,7 +71,7 @@ footer{
 	background-size: cover;*/
 	/*background-color:#f8fcff;*/
 	color:##f8fcff;
-	padding:50px 0 50px;
+	padding:3.2em 0 3.2em;
 }
 
 
@@ -94,7 +94,7 @@ h2 + hr + p {
 	height:1px;
 	font-size:1.5em;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: .25em;
 	margin:0 0 2.5em;
 }
 
@@ -106,7 +106,7 @@ h3{
 
 h3 + hr{
 	background-color: #3C3C3C;
-	height:3px;
+	height:.30em;
 }
 
 h4{
@@ -149,11 +149,11 @@ hr{
 label{
 	/*font-family: 'Allerta', sans-serif;*/
 	/*color:#fff;*/
-	padding:0 32px;
+	padding:0 2em;
 	font-size: .8em;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: .35em;
 	display: none;
 }
 
