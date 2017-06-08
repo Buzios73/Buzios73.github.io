@@ -11,14 +11,14 @@
 }
 
 body{
-	/*background-color: ##f8fcfc;*/
+	background-color: #f8fcfc;
 	font-size: 16px;
 	position: relative;
 	font-family: 'Dosis',sans-serif;
 }
 
 header{
-	/*padding:0 200px;*/
+	padding:0 200px;
 }
 
 nav{
@@ -53,7 +53,7 @@ nav a:active{
 }
 
 main {
-	background-color: #f8fcff;
+	/*background-color: #f8fcff;*/
 	color:#3C3C3C;
 	padding:50px 0;
 }
@@ -68,7 +68,7 @@ footer{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;*/
-	background-color:#f8fcff;
+	/*background-color:#f8fcff;*/
 	color:##f8fcff;
 	padding:50px 0 50px;
 }
