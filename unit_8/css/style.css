@@ -29,7 +29,7 @@ nav{
 
 nav a:link{
 	font-family: 'Fjalla One', sans-serif;
-	color:#b11;
+	color:#FFFD06
 	padding:0 0 0 1.2em;
 	font-size: 1.4em;
 	text-align: center;
@@ -42,7 +42,7 @@ nav a:link{
 }
 
 nav a:visited{
-	color: #f8fcfc;
+	color: #FFFD06;
 }
 
 nav a:hover{
@@ -50,7 +50,7 @@ nav a:hover{
 }
 
 nav a:active{
-	color: #red;
+	color: #white;
 }
 
 main {
@@ -274,19 +274,7 @@ label{
 
 @media	only screen and (max-width:1540px) {
     
-     nav a:visited{
-	  color:#FFFD06;
-    }
-
-
-    nav a:hover{
-	color:red;
-}
-
-nav a:active{
-	color: white;
-}
- @media	only screen and (max-width:1476px) {
+    
 
 
 
@@ -298,5 +286,4 @@ nav a:active{
 
 
 
- 	
  
