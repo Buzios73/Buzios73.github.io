@@ -19,12 +19,12 @@ body{
 }
 
 header{
-	padding:0 200px;
+	padding:0 12.5em;
 }
 
 nav{
 	margin:auto;
-	text-align: right;
+	text-align: center;
 }
 
 nav a:link{
