@@ -1,5 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 
 *{
@@ -26,6 +28,7 @@ nav{
 }
 
 nav a:link{
+	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
 	padding:0 0 0 1.2em;
 	font-size: 1.4em;
@@ -36,7 +39,6 @@ nav a:link{
 	-moz-transition:color ease-in-out .3s;
 	-o-transition:color ease-in-out .3s;
 	transition:color ease-in-out .3s;
-	font-weight:400;
 }
 
 nav a:visited{
@@ -144,6 +146,22 @@ hr{
 	margin:1em auto;
 }
 
+label{
+	/*font-family: 'Allerta', sans-serif;*/
+	/*color:#fff;*/
+	padding:0 2em;
+	font-size: .8em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .35em;
+	display: none;
+}
+
+.social { 
+
+
+
+}
 .clearfix:after{
 	height:0;
 	font-size:0;
@@ -161,7 +179,7 @@ hr{
 }
 
 .planet{
-	width:23%;
+	width:33.33%;
 	padding:2em 0 0;
 	float: left;
 	position:relative;
@@ -208,8 +226,8 @@ hr{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:30em;
-	padding:2em 2em;
+	height:800px;
+	padding:58px 174px;
 
 }
 
@@ -224,7 +242,18 @@ hr{
 	padding:5em 10% 7em;
 }
 
+#toggle{
+	display: none;
+}
 
+
+
+	}
+
+	nav a:link{
+		display: block;
+		padding:15px;
+		margin:5px;
 	}
 
 	h1{
@@ -232,9 +261,32 @@ hr{
 	}
 
 	header{
-		padding:0 2%; 
+		padding:0 2%;
 	}
 
+	label{
+		display: block;
+	}
+
+	#toggle:checked + nav{
+		display: block;
+	}
+
+@media	only screen and (max-width:1540px) {
+    
+     nav a:visited{
+	  color:#FFFD06;
+    }
+
+
+    nav a:hover{
+	color:red;
+}
+
+nav a:active{
+	color: white;
+}
+ @media	only screen and (max-width:1476px) {
 
 
 
@@ -245,4 +297,6 @@ hr{
 
 
 
+
+ 	
  
