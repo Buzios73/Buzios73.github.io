@@ -36,6 +36,9 @@ nav a:link{
 	-moz-transition:color ease-in-out .3s;
 	-o-transition:color ease-in-out .3s;
 	transition:color ease-in-out .3s;
+	font-weight:400;
+	display: block;
+	margin:.6em;
 }
 
 nav a:visited{
@@ -161,9 +164,11 @@ hr{
 
 .planet{
 	width:23%;
-	padding:1em 0 0;
+	padding:2em 0 0;
 	float: left;
 	position:relative;
+	overflow: hidden;
+	/*background-color: orange;*/
 }
 
 .planet:nth-of-type(1){
@@ -205,8 +210,8 @@ hr{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:800px;
-	padding:58px 174px;
+	height:30em;
+	padding:2em 2em;
 
 }
 
@@ -221,14 +226,6 @@ hr{
 	padding:5em 10% 7em;
 }
 
-
-	}
-
-	nav a:link{
-		display: block;
-		padding:15px;
-		margin:5px;
-	}
 
 	h1{
 		margin:40px 0 0;
