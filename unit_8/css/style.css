@@ -1,7 +1,5 @@
 
 @import url('https://fonts.googleapis.com/css?family=Dosis');
-@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 
 *{
@@ -28,7 +26,6 @@ nav{
 }
 
 nav a:link{
-	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
 	padding:0 0 0 1.2em;
 	font-size: 1.4em;
