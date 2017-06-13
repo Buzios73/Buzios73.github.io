@@ -37,8 +37,6 @@ nav a:link{
 	-o-transition:color ease-in-out .3s;
 	transition:color ease-in-out .3s;
 	font-weight:400;
-	display: block;
-	margin:.6em;
 }
 
 nav a:visited{
@@ -91,7 +89,7 @@ h2{
 
 h2 + hr + p {
 	/*background-color: #fff;*/
-	height:0.0062em;
+	height:1px;
 	font-size:1.5em;
 	text-transform: uppercase;
 	letter-spacing: .25em;
@@ -226,6 +224,8 @@ hr{
 	padding:5em 10% 7em;
 }
 
+
+	}
 
 	h1{
 		margin:40px 0 0;
