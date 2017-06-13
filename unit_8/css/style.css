@@ -43,7 +43,7 @@ nav a:link{
 }
 
 nav a:visited{
-	color: #f8fcfc;
+	color: red;
 }
 
 nav a:hover{
@@ -51,7 +51,7 @@ nav a:hover{
 }
 
 nav a:active{
-	color: #red;
+	color:#f8fcfc;
 }
 
 main {
@@ -296,14 +296,6 @@ nav a:active{
   }
 @media	only screen and (max-width:1070px) {
 
-	nav a:visited{
-	color:red ;
-    }
-
-
-    nav a:hover{
-	color:#FFFD06;
-}
 
 
 }
