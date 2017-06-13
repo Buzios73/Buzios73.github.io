@@ -1,4 +1,5 @@
 
+
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
@@ -42,7 +43,7 @@ nav a:link{
 }
 
 nav a:visited{
-	color: red;
+	color: #f8fcfc;
 }
 
 nav a:hover{
@@ -50,7 +51,7 @@ nav a:hover{
 }
 
 nav a:active{
-	color: white;
+	color: #red;
 }
 
 main {
@@ -286,5 +287,23 @@ label{
 nav a:active{
 	color: white;
 }
- @media	only screen and (max-width:1476px) {	
- 
+ @media	only screen and (max-width:1476px) {
+
+
+#lander { 
+
+  height:670px
+  }
+@media	only screen and (max-width:1070px) {
+
+	nav a:visited{
+	color:red ;
+    }
+
+
+    nav a:hover{
+	color:#FFFD06;
+}
+
+
+}
