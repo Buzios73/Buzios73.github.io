@@ -28,6 +28,7 @@ nav{
 }
 
 nav a:link{
+	background-color:black;
 	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
 	padding:0 0 0 18px;
@@ -226,7 +227,7 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:800px;
+	height:1000px;
 	padding:58px 174px;
 
 }
