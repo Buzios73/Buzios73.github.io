@@ -143,22 +143,6 @@ hr{
 	margin:1em auto;
 }
 
-label{
-	/*font-family: 'Allerta', sans-serif;*/
-	/*color:#fff;*/
-	padding:0 2em;
-	font-size: .8em;
-	text-align: center;
-	text-transform: uppercase;
-	letter-spacing: .35em;
-	display: none;
-}
-
-.social { 
-
-
-
-}
 .clearfix:after{
 	height:0;
 	font-size:0;
@@ -239,11 +223,6 @@ label{
 	padding:5em 10% 7em;
 }
 
-#toggle{
-	display: none;
-}
-
-
 
 	}
 
@@ -258,41 +237,8 @@ label{
 	}
 
 	header{
-		padding:0 2%;
+		padding:0 2%; 
 	}
-
-	label{
-		display: block;
-	}
-
-	#toggle:checked + nav{
-		display: block;
-	}
-
-@media	only screen and (max-width:1540px) {
-    
-     nav a:visited{
-	  color:#FFFD06;
-    }
-
-
-    nav a:hover{
-	color:red;
-}
-
-nav a:active{
-	color: white;
-}
- @media	only screen and (max-width:1476px) {
-
-
-#lander { 
-
-  height:670px
-  }
-
-}
-
 
 
 
