@@ -42,7 +42,7 @@ nav a:link{
 }
 
 nav a:visited{
-	color: #f8fcfc;
+	color: red;
 }
 
 nav a:hover{
@@ -50,7 +50,7 @@ nav a:hover{
 }
 
 nav a:active{
-	color: #red;
+	color: white;
 }
 
 main {
