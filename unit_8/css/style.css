@@ -1,5 +1,4 @@
 
-
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
@@ -20,7 +19,7 @@ body{
 }
 
 header{
-	padding:0 12.5em;
+	padding:0 200px;
 }
 
 nav{
@@ -31,11 +30,11 @@ nav{
 nav a:link{
 	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
-	padding:0 0 0 1.2em;
+	padding:0 0 0 18px;
 	font-size: 1.4em;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: .13em;
+	letter-spacing: 2px;
 	-webkit-transition:color ease-in-out .3s;
 	-moz-transition:color ease-in-out .3s;
 	-o-transition:color ease-in-out .3s;
@@ -43,7 +42,7 @@ nav a:link{
 }
 
 nav a:visited{
-	color: red;
+	color: #f8fcfc;
 }
 
 nav a:hover{
@@ -51,17 +50,17 @@ nav a:hover{
 }
 
 nav a:active{
-	color:#f8fcfc;
+	color: #red;
 }
 
 main {
 	/*background-color: #f8fcff;*/
 	/*color:#3C3C3C;*/
-	padding:3.2em 0;
+	padding:50px 0;
 }
 
 section{
-	padding: 3.2em 0;
+	padding:50px 0;
 }
 
 footer{
@@ -72,7 +71,7 @@ footer{
 	background-size: cover;*/
 	/*background-color:#f8fcff;*/
 	color:##f8fcff;
-	padding:3.2em 0 3.2em;
+	padding:50px 0 50px;
 }
 
 
@@ -95,7 +94,7 @@ h2 + hr + p {
 	height:1px;
 	font-size:1.5em;
 	text-transform: uppercase;
-	letter-spacing: .25em;
+	letter-spacing: 2px;
 	margin:0 0 2.5em;
 }
 
@@ -107,7 +106,7 @@ h3{
 
 h3 + hr{
 	background-color: #3C3C3C;
-	height:.30em;
+	height:3px;
 }
 
 h4{
@@ -150,11 +149,11 @@ hr{
 label{
 	/*font-family: 'Allerta', sans-serif;*/
 	/*color:#fff;*/
-	padding:0 2em;
+	padding:0 32px;
 	font-size: .8em;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: .35em;
+	letter-spacing: 2px;
 	display: none;
 }
 
@@ -272,30 +271,5 @@ label{
 	#toggle:checked + nav{
 		display: block;
 	}
-
-@media	only screen and (max-width:1540px) {
-    
-     nav a:visited{
-	  color:#FFFD06;
-    }
-
-
-    nav a:hover{
-	color:red;
-}
-
-nav a:active{
-	color: white;
-}
- @media	only screen and (max-width:1476px) {
-
-
-#lander { 
-
-  height:670px
-  }
-@media	only screen and (max-width:1070px) {
-
-
 
 }
