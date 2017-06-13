@@ -303,8 +303,32 @@ nav a:active{
     nav a:hover{
 	color:#FFFD06;
 }
+@media	only screen and (max-width:268px) {
 
+	nav a:visited{
+	color: red;
+}
 
+nav a:hover{
+	color: red;
+}
+
+nav a:active{
+	color: #red;
+}
+nav a:link{
+	font-family: 'Fjalla One', sans-serif;
+	color:#b11;
+	padding:0 0 0 1.2em;
+	font-size: 2em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .13em;
+	-webkit-transition:color ease-in-out .3s;
+	-moz-transition:color ease-in-out .3s;
+	-o-transition:color ease-in-out .3s;
+	transition:color ease-in-out .3s;
+}
 }
 
 
