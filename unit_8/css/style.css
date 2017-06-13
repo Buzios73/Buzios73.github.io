@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
 
 
 *{
@@ -226,8 +226,8 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:800px;
-	padding:58px 174px;
+	height:50em;
+	padding:3.7em 10.8em;
 
 }
 
@@ -252,8 +252,8 @@ label{
 
 	nav a:link{
 		display: block;
-		padding:15px;
-		margin:5px;
+		padding:1em;
+		margin:0.4em;
 	}
 
 	h1{
