@@ -303,19 +303,8 @@ nav a:active{
     nav a:hover{
 	color:#FFFD06;
 }
-@media	only screen and (max-width:268px) {
 
-	nav a:visited{
-	color: red;
-}
 
-nav a:hover{
-	color: red;
-}
-
-nav a:active{
-	color: #red;
-}
 nav a:link{
 	font-family: 'Fjalla One', sans-serif;
 	color:#b11;
@@ -331,9 +320,26 @@ nav a:link{
 	transition:color ease-in-out .3s;
 }
 }
+ 
 
+.neils{
+	width:23%;
+	padding:1%;
+	margin:1%;
+	float:left;
+}
 
+@media	only screen and (max-width:268px) {
 
+	nav a:visited{
+	color: red;
+
+.neils{
+	width:23%;
+	padding:1%;
+	margin:1%;
+	float:left;
+}
 
 
 
