@@ -273,9 +273,22 @@ label{
 	}
 
 
-	@media	only screen and (max-width:px) {
+	@media	only screen and (max-width:674px) {
 
- 	
+ 	nav a:link{
+	background-color: black;
+	font-family: 'Fjalla One', sans-serif;
+	color:#1521bd;
+	padding:0 0 0 18px;
+	font-size: 2.5em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	-webkit-transition:color ease-in-out .3s;
+	-moz-transition:color ease-in-out .3s;
+	-o-transition:color ease-in-out .3s;
+	transition:color ease-in-out .3s;
+}
 
  }
 
